@@ -6,7 +6,11 @@
 This is the example of markdown email
 
 @component('mail::button',['url'=>'#'])
-Custom Button
+    Custom Button
+@endcomponent
+
+@component('mail::panel')
+    Custom Panel
 @endcomponent
 
 @endcomponent
