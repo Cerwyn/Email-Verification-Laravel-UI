@@ -1,3 +1,12 @@
+# Medium
+This repository is used in this Medium article [here](https://medium.com/@cerwyneliata.c/laravel-ui-email-verification-part-i-f40079335e99)
+## Description
+This repository is an example of sending Email Verification to the newly registered users using laravel/ui packages and fake SMTP Server Mailtrap. 
+In the Custom-Mail-and-Notification branch, there is an example on how to create a custom HTTP, Markdown, and Notification mails and sending them to the Mailtrap.
+## Installation
+Nothing special for the installation, just type `composer install` then it's done.
+Maybe it's best to read the article [here](https://medium.com/@cerwyneliata.c/laravel-ui-email-verification-part-i-f40079335e99) for the explanation.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
